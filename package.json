@@ -1,0 +1,20 @@
+{
+  "name": "sample",
+  "version": "1.0.0",
+  "description": "idk",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanikamittal1811/sample.git"
+  },
+  "author": "kanika",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kanikamittal1811/sample/issues"
+  },
+  "homepage": "https://github.com/kanikamittal1811/sample#readme"
+}
